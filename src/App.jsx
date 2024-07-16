@@ -1,3 +1,4 @@
+import SunIndex from "./components/SunIndex"
 
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <>
       <h1>Sun safety app</h1>
+      <SunIndex />
       
     </>
   )
